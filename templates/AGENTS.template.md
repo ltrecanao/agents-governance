@@ -7,6 +7,10 @@
 
 ## Reglas no negociables
 1. **Commits y trazabilidad:** Un cambio por commit, Conventional Commits, prohibido el push automático sin orden y nunca commitear en estado rojo.
+    * **Formato:** `<tipo>: <descripción>`.
+    * **Tipos:** `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`, `ci`.
+    * **Límite:** Máximo **50 caracteres** en una sola línea (atómico y sin cuerpo).
+
 2. **Seguridad:** Prohibido incluir credenciales, secretos o tokens en ningún archivo de código o documentación.
 3. **Testing:** Todo código nuevo o modificado debe incluir sus pruebas. No se permite deshabilitar tests existentes para pasar el build.
 
