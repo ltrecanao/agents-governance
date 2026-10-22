@@ -25,6 +25,7 @@ Este repositorio contiene exclusivamente estándares, reglas y plantillas de dis
 * [ADR 0003: Precondiciones del repositorio (Preflight)](./docs/proposals/0003-precondiciones-del-repositorio.md)
 * [ADR 0004: Límites, formato y seguridad en contexto](./docs/proposals/0004-limites-formato-y-seguridad.md)
 * [ADR 0005: Testing y verificación automatizada](./docs/proposals/0005-testing-y-verificacion.md)
+* [ADR 0006: Harness y manejo de contexto](./docs/proposals/0006-harness-y-manejo-de-contexto.md)
 
 ## Estructura del Repositorio
 
